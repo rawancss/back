@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\downlod_D\\backen2222\\backend-render\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj": {}
+    "D:\\downlod_D\\backen2222\\back\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj": {}
   },
   "projects": {
-    "D:\\downlod_D\\backen2222\\backend-render\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj": {
+    "D:\\downlod_D\\backen2222\\back\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\downlod_D\\backen2222\\backend-render\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj",
+        "projectUniqueName": "D:\\downlod_D\\backen2222\\back\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj",
         "projectName": "ApiWithJWT",
-        "projectPath": "D:\\downlod_D\\backen2222\\backend-render\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj",
+        "projectPath": "D:\\downlod_D\\backen2222\\back\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\ApiWithJWT.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\downlod_D\\backen2222\\backend-render\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\obj\\",
+        "outputPath": "D:\\downlod_D\\backen2222\\back\\ApiWithJ\\ApiWithJWT\\ApiWithJWT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
